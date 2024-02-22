@@ -21,7 +21,7 @@ class Character:
         self.__race__ = race
         self.__subclass__ = subclass #? questionable attr name
         # primary_ability is based on class ?
-        
+
         # ideas & examples
             # charisma : 1
             # strength: 1
@@ -44,11 +44,21 @@ class Character:
 # Sorcerer
 
 
+# -------------------------
+        
+# OR RACES INSTEAD OF CLASSES
+        
+# Character
+    # name
+    # primary ablility
+    # race
+    # class
+        
+# Human
+        
 
-# create a simple class diagram for all classes 
 
-# all child class should have at least 3 things (att or methods)
-# that extend beyond the parent class
+# Elf
+        
 
-# all data should be encapsulated offering minimun
-# access needed for functionality
+# ETC...
